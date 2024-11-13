@@ -1,7 +1,6 @@
 # RPGgame
 /*
- * 最終課題8.Advanced Task8.RPG
- * @author 221205098 高島壮太
+ * 
  */
 
 
